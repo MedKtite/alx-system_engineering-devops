@@ -1,2 +1,2 @@
-i#!/bin/bash
-id -un
+#!/bin/bash
+su betty
